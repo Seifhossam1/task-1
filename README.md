@@ -12,3 +12,6 @@ DFS, or Depth-First Search, is another algorithm designed for searching tree or 
 
 Usage
 In our 5x5 grid scenario, the start point was chosen at (3,2), and the goal point at (1,4). The assumed priority directions were (up, right, left, down), and obstacles were present at coordinates (1,0), (2,0), (3,0), (4,0), (0,3), (0,4), (4,3), and (4,4). The DFS algorithm successfully reached the goal point, taking 12 steps from the start
+
+https://github.com/Seifhossam1/task-1/issues/1
+
